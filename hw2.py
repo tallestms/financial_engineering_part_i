@@ -6,8 +6,7 @@ def question_1():
     s_list = [7.0, 7.3, 7.7, 8.1, 8.4, 8.8]
     answer_1 = 1 / (1 + s_list[3] / 100)**4
     print ('Answer 1 is %1.3f' % answer_1)
-    return
-
+    return  
 
 def question_2():
     s_list = [7.0, 7.3, 7.7, 8.1, 8.4, 8.8]
